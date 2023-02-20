@@ -1,0 +1,26 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "§cI§6nventory §cM§6anager§r",
+    "description": "Multiple hotbars.",
+    "uuid": "a893219c-1f0e-4332-be8e-a64a7a553186",
+    "version": [0, 0, 2],
+    "min_engine_version": [1, 19, 60]
+  },
+  "modules": [
+    {
+      "description": "Commum module",
+      "type": "data",
+      "uuid": "114b06c0-d121-4331-a74c-93cdc47cb184",
+      "version": [0, 0, 2]
+    }
+  ],
+  "dependencies": [
+
+  ],
+  "metadata": {
+    "authors": ["Bridges369"],
+    "url": "https://github.com/Bridges369",
+    "license": "MIT"
+  }
+}
